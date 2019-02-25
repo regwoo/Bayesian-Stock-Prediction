@@ -1,0 +1,1 @@
+To run the project, you should import the whole folder into intellij IDEA, the datafile are stored at /Data folder. You should input the data file name first, but do not enter ".csv". Then choose the size of input test data, it should not larger then 230.
